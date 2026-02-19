@@ -1,4 +1,4 @@
-# first
+# Groundwater depletion 
 1️⃣ Introduction
 
 Groundwater depletion is increasing due to urbanization, over-irrigation, and climate change. Surface water bodies like lakes and ponds contribute to groundwater recharge. Monitoring their shrinkage can help prevent groundwater loss.
